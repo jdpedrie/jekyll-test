@@ -18,10 +18,10 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
+    author:
 - scope:
     path: ''
     type: pages
   values:
     layout: page
 permalink: pretty
-Author: 
